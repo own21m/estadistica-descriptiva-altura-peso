@@ -1,0 +1,20 @@
+# Entornos y archivos generados por Python/Jupyter.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos externos y respaldos íntegros conservados de forma privada.
+data/
+*.csv
+*.cells.json
+originales/
+respaldos-privados/
+
+# Configuración local.
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+# Mantener exactos los bytes de las copias públicas y su código original.
+*.ipynb -text

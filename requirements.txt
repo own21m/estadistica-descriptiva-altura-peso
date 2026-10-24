@@ -1,0 +1,7 @@
+# Bibliotecas de análisis importadas por los cuadernos originales.
+# Las versiones históricas no se conocen y no se validó un entorno reproducible.
+# Google Colab proporciona google.colab para importar o montar Drive.
+numpy
+pandas
+matplotlib
+seaborn
